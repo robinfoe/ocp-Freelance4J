@@ -1,0 +1,10 @@
+.settings/
+.vscode/
+**/.settings/
+**/.vertx
+**/.classpath
+**/.project
+.project
+
+**/target/**
+**/generated/
